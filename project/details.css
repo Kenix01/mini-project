@@ -1,0 +1,18 @@
+
+.btn {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.post {
+    background: pink;
+    width: 100px;
+    margin: 4px;
+    margin-right: calc(10% - 50px);
+    margin-left: calc(10% - 50px);
+}

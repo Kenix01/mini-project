@@ -1,0 +1,11 @@
+.comment {
+    background: pink;
+    display: flex;
+    flex-wrap: wrap;
+}
+.valueBlock {
+    width: 200px;
+    margin: 10px;
+    margin-left: calc(12.5% - 100px);
+    margin-right: calc(12.5% - 100px);
+}

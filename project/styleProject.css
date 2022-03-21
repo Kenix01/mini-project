@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user {
+    background: pink;
+    width: 200px;
+    height: 80px;
+    margin: 10px;
+    margin-left: calc(25% - 100px);
+    margin-right: calc(25% - 100px);
+    display: flex;
+    justify-content: center;
+}
